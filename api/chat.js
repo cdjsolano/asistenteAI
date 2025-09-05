@@ -10,7 +10,9 @@ export default async function handler(req, res) {
   }
 
   try {
-    const { message } = req.body;
+    // Aseguramos que el body sea JSON
+    const body = typeof req.body === "string" ? JSON.parse(req.body) : req.body;
+    const { message } = body;
 
     const completion = await client.chat.completions.create({
       model: "gpt-3.5-turbo",
@@ -19,7 +21,9 @@ export default async function handler(req, res) {
 
     res.status(200).json({ reply: completion.choices[0].message.content });
   } catch (error) {
-    console.error(error);
+    console.error("Error en API:", error.message || error);
     res.status(500).json({ error: "Error en la API" });
   }
 }
+
+
