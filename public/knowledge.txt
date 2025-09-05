@@ -1,0 +1,80 @@
+REQUISITOS_DE_NOMBRAMIENTO_Y_ACEPTACIÓN:
+- Acta de posesión [1]: Debe ser diligenciada en computador, en formato editable e impresa.
+- Acta individual de escogencia de plaza [1]: Requerida para cargos por audiencia.
+- Acto administrativo de vacancia temporal [1]: Si aplica.
+- Acto administrativo de prórroga [1]: Si aplica.
+- Comunicación de nombramiento.[1]
+- Acto administrativo de nombramiento.[1]
+- Carta de aceptación del cargo.[1]
+- Certificación de cuenta bancaria [1]: Se tramita con el acto administrativo de nombramiento.
+
+DOCUMENTOS_DE_IDENTIFICACIÓN_Y_PERSONALES:
+- Registro civil de nacimiento [1]: Original o autenticado.
+- Copia de la cédula de ciudadanía [1]: Ampliada al 150%.
+- Copia de la libreta militar [1]: Ampliada al 150% (si aplica).
+- Fotos [1]: Dos (2) fotos recientes, 3x4 cm, fondo blanco.
+- Formato hoja de vida función pública [1]: Diligenciar e imprimir.
+
+CERTIFICACIONES_Y_ANTECEDENTES:
+- Certificado de Registro del Oferente [1]: Otorgado por COMFACESAR o SENA.
+- Certificado de antecedentes judiciales.[1]
+- Certificado de antecedentes fiscales.[1]
+- Certificado de antecedentes disciplinarios.[1]
+- Declaración juramentada de bienes y rentas.[1]
+
+ACREDITACIÓN_ACADÉMICA_Y_EXPERIENCIA:
+- Soporte de estudios [1]: Diploma y acta de grado.
+- Certificación de la experiencia laboral.[1]
+- Oficio de autenticidad de documentos.[1]
+- Autorización para Verificación de Información Académica.[1]
+
+SALUD_Y_AFILIACIONES:
+- Examen médico de ingreso [1]: Autorizado por la Secretaría de Educación.
+- Exámenes de egreso [1]: Para docentes que ingresan por permuta.
+- Formato de afiliación al fondo de prestaciones sociales del magisterio.[1]
+
+LOGÍSTICA_DE_PRESENTACIÓN:
+- Carpeta [1]: Tamaño oficio, color blanco.
+- Gancho plástico.[1]
+- Todo debe ser legajado.
+
+
+
+
+REQUISITOS_DE_NOMBRAMIENTO_Y_ACEPTACIÓN:
+- Acta de posesión [2, 4]: Debe ser previamente diligenciada en formato editable e impresa.
+- Comunicación de nombramiento.[2, 4]
+- Decreto de Prórroga [2, 4]: Si aplica.
+- Acto administrativo de nombramiento.[2, 4]
+- Carta de aceptación del encargo.[2, 4]
+- Certificación de cuenta bancaria [2, 4]: Se tramita con el acto administrativo de nombramiento.
+
+DOCUMENTOS_DE_IDENTIFICACIÓN_Y_PERSONALES:
+- Registro civil de nacimiento [2, 4]: Original o autenticado.
+- Copia de la cédula de ciudadanía [2, 4]: Ampliada al 150%.
+- Copia de la libreta militar [2, 4]: Ampliada al 150% (si aplica).
+- Fotos [2, 4]: Tres (3) fotos recientes, 3x4 cm.
+- Formato hoja de vida función pública [2, 4]: Diligenciar e imprimir.
+
+CERTIFICACIONES_Y_ANTECEDENTES:
+- Certificado de Registro del Oferente [2, 4]: Otorgado por COMFACESAR o SENA.
+- Certificado de antecedentes judiciales.[2, 4]
+- Certificado de antecedentes fiscales.[2, 4]
+- Certificado de antecedentes disciplinarios.[2, 4]
+- Declaración juramentada de bienes y rentas.[2, 4]
+
+ACREDITACIÓN_ACADÉMICA_Y_EXPERIENCIA:
+- Soporte de estudios [2, 4]: Diploma y acta de grado.
+- Oficio de autenticidad de documentos.[2, 4]
+- Autorización para Verificación de Información Académica Profesional [2, 4]: Si aplica.
+
+SALUD_Y_AFILIACIONES:
+- Certificación médico laboral.[2, 4]
+- Examen de laboratorio [2, 4]: Serología, inmunología y gravidez (si aplica). Se exceptúa en nombramientos temporales.
+- Afiliación como Dependiente [2, 4]: (EPS, Pensión, Cesantías) y ARL, gestionada por la Secretaría de Educación.
+
+LOGÍSTICA_DE_PRESENTACIÓN:
+- Carpeta [2, 4]: Tamaño oficio, color blanco.
+- Gancho plástico.[2, 4]
+- Carpeta adicional [2, 4]: Una segunda carpeta, también con gancho, pero sin documentos.
+- Todo debe ser legajado.
