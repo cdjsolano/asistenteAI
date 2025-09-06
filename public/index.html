@@ -138,9 +138,10 @@ Respuesta:`;
         const response = await fetch(API_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            messages: [{ role: "user", content: prompt }],
-          }),
+           body: JSON.stringify({
+                
+                message: prompt,
+            }),
         });
 
         const data = await response.json();
