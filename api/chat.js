@@ -12,7 +12,7 @@ export default async function handler(req, res) {
   try {
     // Aseguramos que el body sea JSON
     const body = typeof req.body === "string" ? JSON.parse(req.body) : req.body;
-    const { message } = body;
+    const message = body.messages[0].content;
 
     const completion = await client.chat.completions.create({
       model: "gpt-3.5-turbo",
