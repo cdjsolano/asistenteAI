@@ -1,3 +1,5 @@
+DOCENTES
+
 REQUISITOS_DE_NOMBRAMIENTO_Y_ACEPTACIÓN:
 - Acta de posesión [1]: Debe ser diligenciada en computador, en formato editable e impresa.
 - Acta individual de escogencia de plaza [1]: Requerida para cargos por audiencia.
@@ -39,7 +41,7 @@ LOGÍSTICA_DE_PRESENTACIÓN:
 - Todo debe ser legajado.
 
 
-
+ADMINISTRATIVOS
 
 REQUISITOS_DE_NOMBRAMIENTO_Y_ACEPTACIÓN:
 - Acta de posesión [2, 4]: Debe ser previamente diligenciada en formato editable e impresa.
